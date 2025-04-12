@@ -1,0 +1,6 @@
+symbol,name,price,industry,historical_data
+AAPL,Apple Inc.,175.34,Technology,"[{\"date\":\"2024-01-01\",\"price\":170.34},{\"date\":\"2024-01-02\",\"price\":172.45},{\"date\":\"2024-01-03\",\"price\":175.34}]"
+MSFT,Microsoft Corporation,320.45,Technology,"[{\"date\":\"2024-01-01\",\"price\":315.67},{\"date\":\"2024-01-02\",\"price\":318.90},{\"date\":\"2024-01-03\",\"price\":320.45}]"
+GOOGL,Alphabet Inc.,142.56,Technology,"[{\"date\":\"2024-01-01\",\"price\":140.23},{\"date\":\"2024-01-02\",\"price\":141.78},{\"date\":\"2024-01-03\",\"price\":142.56}]"
+JPM,JPMorgan Chase & Co.,170.89,Finance,"[{\"date\":\"2024-01-01\",\"price\":168.45},{\"date\":\"2024-01-02\",\"price\":169.78},{\"date\":\"2024-01-03\",\"price\":170.89}]"
+WMT,Walmart Inc.,160.23,Retail,"[{\"date\":\"2024-01-01\",\"price\":158.90},{\"date\":\"2024-01-02\",\"price\":159.67},{\"date\":\"2024-01-03\",\"price\":160.23}]" 
